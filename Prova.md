@@ -1,0 +1,3 @@
+![Diagrama UML](/home/profe/MEGAsync/NetBeansProjects/2020-2021/DAM/alumnes/Gerard Subirats/MP6/UF2/jpaeclipselink-gerardsubirats/DiagramaUML-NM.jpg  "UML")
+
+Anem a provar com funciona...
