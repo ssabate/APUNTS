@@ -1,4 +1,4 @@
-![Intro a PHP](1280px-PHP-logo.svg.png  "PHP")
+![Intro a PHP](images/1280px-PHP-logo.svg.png  "PHP")
 
 Passos a seguir:
 
