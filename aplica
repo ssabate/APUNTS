@@ -16,5 +16,5 @@ if [ "$1" == "-c" ]; then
 	fi
 	git add .
 	git commit -m "$2"
-	git push -u origin master
+	git push -u origin main
 fi
