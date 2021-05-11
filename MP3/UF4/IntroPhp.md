@@ -10,7 +10,7 @@ Passos a seguir:
 -  [Arrays.](https://www.w3schools.com/php/php_arrays.asp) 
 - Tipos primitius:
 1. [PHP](https://www.php.net/manual/en/language.types.intro.php) 
-1. [Java](https://docs.google.com/presentation/d/1empsfXZFHEzrLpyTnkl9o92DKoLtYxsisML8i58IwSw/edit#slide=id.p6) 
+1. [Java](https://docs.google.com/presentation/d/1empsfXZFHEzrLpyTnkl9o92DKoLtYxsisML8i58IwSw/view#slide=id.p6) 
 
 
 
